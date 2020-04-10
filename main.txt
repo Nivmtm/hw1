@@ -1,1 +1,5 @@
-"i love niv"
+#include <stdio.h>
+int main ()
+{
+    printf("hello");
+}
